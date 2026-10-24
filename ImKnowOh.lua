@@ -1,3 +1,17 @@
+--[[
+
+██╗   ██╗███████╗
+██║   ██║██╔════╝
+██║   ██║█████╗  
+██║   ██║██╔══╝  
+╚██████╔╝███████╗
+ ╚═════╝ ╚══════╝
+
+Unnamed Enhancements
+discord.gg/enhancements
+
+]]
+
 local arguments = table.pack(...)
 local sharedEnv = getgenv and getgenv() or _G
 
